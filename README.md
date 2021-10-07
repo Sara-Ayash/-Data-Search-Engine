@@ -13,7 +13,7 @@ created after all the files are written, the class call to Merge class.
 following way: the product file is separated to product id and tokens file
 if the directory does not exist, it should be created
 
-Merge.py​- merge the tokens and product files created on indexwriter class
-Compress.py​- comress tokens and product files.
-IndexReader.py​​- Creates an IndexReader which will read from the given directory
+Merge.py- merge the tokens and product files created on indexwriter class
+Compress.py- comress tokens and product files.
+IndexReader.py- Creates an IndexReader which will read from the given directory
 
