@@ -1,4 +1,4 @@
-# -Data-Search-Engine
+# Data-Search-Engine
  Data search engine in a web environment
  
 IndexWriter.py​- Given product review data, inputFile is the
